@@ -1,5 +1,4 @@
 public class User{
-    public static void main(String [] args){
         //diri ang code of users
         protected int id;
         protected String name;
@@ -12,5 +11,5 @@ public class User{
         }
 
 
-    }
+    
 }
